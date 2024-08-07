@@ -1,11 +1,9 @@
 # Neylton Benjamin
 
 ## Sobre Mim
-
-Olá! Eu sou Neylton Benjamin, um desenvolvedor. 
-Tecnologia e inovação. 
-Aprender novas tecnologias e colaborar em projetos interessantes. 
-Vamos construir algo incrível juntos!
+Olá! Eu sou Neylton Benjamin, Tecnologia e inovação. 🚀  
+Vamos aprender novas tecnologias e colaborar em projetos interessantes. 💡  
+Vamos construir algo incrível juntos! 🤝
 ## Hobbies e Interesses
 
 - 🎮 Jogar videogames
@@ -38,6 +36,17 @@ Vamos construir algo incrível juntos!
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=neyltonbenjamim&theme=radical)
 
----
+## Contribuições
+
+Adoraria receber suas contribuições! Sinta-se à vontade para abrir issues ou enviar pull requests.
+
+## Feedback
+
+Seu feedback é muito importante para mim. Se você tiver sugestões ou ideias, por favor, entre em contato!
+
+## Call to Action
+
+Se você gostou dos meus projetos, não se esqueça de me seguir no GitHub para acompanhar as novidades!
 
 Obrigado por visitar meu perfil! Vamos nos conectar e criar algo incrível juntos.
+---
