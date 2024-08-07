@@ -1,10 +1,11 @@
 # Neylton Benjamin
 
 ## Sobre Mim ◤✠◢
-Olá! Eu sou Neylton Benjamin. 💪🏻  
-Tecnologia e inovação. 🚀  
+Olá! Eu sou Neylton Benjamin. 💢  
 Vamos aprender novas tecnologias e colaborar em projetos interessantes. 💡  
 Vamos construir algo incrível juntos! 🤝
+Tecnologia e inovação. 🚀  
+
 ## Hobbies e Interesses
 
 - 👩🏻‍💻 Programar
