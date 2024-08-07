@@ -1,16 +1,26 @@
-### Hi there 👋
+# Neylton Benjamin
 
-<!--
-**neyltonbenjamim/neyltonbenjamim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
 
-Here are some ideas to get you started:
+Olá! Eu sou Neylton Benjamin, um desenvolvedor. 
+Tecnologia e inovação. 
+Aprender novas tecnologias e colaborar em projetos interessantes. 
+Vamos construir algo incrível juntos!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contato
+
+- **Email:** [neylton.b@hotmail.com](mailto:neylton.b@gmail.com)
+- **LinkedIn:** [Neylton Benjamim](https://linkedin.com/in/neylton-benjamim)
+- **Twitter:** [Neylton Benjamim](https://twitter.com/NeyltonBenjamim)
+
+## Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=neyltonbenjamim&show_icons=true&theme=radical)
+
+## Linguagens Mais Usadas
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=neyltonbenjamim&layout=compact&theme=radical)
+
+---
+
+Obrigado por visitar meu perfil! Vamos nos conectar e criar algo incrível juntos.
