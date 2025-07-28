@@ -24,13 +24,10 @@ Tecnologia e inovação. 🚀
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=neyltonbenjamim&show_icons=true&theme=radical)
 
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=neyltonbenjamim&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 ## Linguagens Mais Usadas
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=neyltonbenjamim&layout=compact&theme=radical)
-
-## Repositorios
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=neyltonbenjamim&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-
 
 ## GitHub Trophies
 
