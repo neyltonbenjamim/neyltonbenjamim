@@ -28,6 +28,10 @@ Tecnologia e inovação. 🚀
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=neyltonbenjamim&layout=compact&theme=radical)
 
+## Repositorios
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=neyltonbenjamim&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+
+
 ## GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=neyltonbenjamim&theme=radical)
@@ -53,10 +57,4 @@ Seu feedback é muito importante para mim. Se você tiver sugestões ou ideias, 
 Se você gostou dos meus projetos, não se esqueça de me seguir no GitHub para acompanhar as novidades!
 
 Obrigado por visitar meu perfil! Vamos nos conectar e criar algo incrível juntos.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neyltonbenjamim&show_icons=true&theme=radical&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neyltonbenjamim&layout=compact&langs_count=6" />
-</p>
-
 ---
